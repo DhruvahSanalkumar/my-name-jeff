@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="input_on_sound" id="G4`7:foN3}5Q![)R(XSv" x="0" y="0"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="device_print_message" id="#rmuiLG8vQ;dglsUf0c3"><value name="text"><shadow type="text" id="JYb]7[-yUIfLIOQdbB6S"><field name="TEXT"> DHRUVAH IS A SIGMA MEWING AURA MAN</field></shadow></value><next><block type="device_show_leds" id="UckmUSF(6;)}e.OX3n7k"><field name="LEDS">`
+        . . . # . 
+        # . # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
